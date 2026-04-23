@@ -101,15 +101,9 @@ Data on https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-b
   * if you have opencv library already installed (opencv included in requirements.txt), skip this step else run below code
     ```
     pip install opencv-python
-    ```
-  
-  * open [detection_with_opencv.ipynb](https://github.com/ravirajsinh45/Crop_and_weed_detection/blob/master/performing_detection/opencv/detection_with_opencv.ipynb) and just run cell. Play with parameters and [images](https://github.com/ravirajsinh45/Crop_and_weed_detection/blob/master/performing_detection/data/images). cheers....!
 
 
-If you have any doubts feel free to ask any quesion at any time:)  
-  * LinkedIn:  https://www.linkedin.com/in/ravirajsinh45/  
-  * Twitter:   www.twitter.com/ravirajsinh45  
-  * Instagram: https://www.instagram.com/ravirajsinh45/  
+ 
 
  # Thank You:) 
 
